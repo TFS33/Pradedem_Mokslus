@@ -1,0 +1,5 @@
+sk1 = int(input('iveskite pirma skaiciu :'))
+sk2 = int(input('iveskite antra skaiciu :'))
+laipsnis = int(sk1 ** sk2)
+print(f'laipsnis :' , laipsnis )
+print()
